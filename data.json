@@ -1,0 +1,12 @@
+{
+  "name": "Playground",
+  "image1": "images/1-2.jpg",
+  "image2": "images/1-1.jpeg",
+  "differences": [
+    { "top": 62, "left": 175, "width": 85, "height": 42 },
+    { "top": 40, "left": 45, "width": 120, "height": 120 },
+    { "top": 165, "left": 35, "width": 80, "height": 50 },
+    { "top": 250, "left": 110, "width": 44, "height": 44 },
+    { "top": 450, "left": 250, "width": 80, "height": 100 }
+  ]
+}
